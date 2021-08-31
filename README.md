@@ -22,6 +22,7 @@ sensors.csv file contaisn the AoT sensor information
 
 offsets.csv and provenance.csv offset and provenance of the data
 
+data.csv. --- can be downloaded with link above, data to large to store in github
 
 ### 2. Landsat data
 
