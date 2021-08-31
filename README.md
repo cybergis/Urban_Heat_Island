@@ -14,6 +14,15 @@ The flowchart of this reserch is shown below:
 
 You can follow the guide to batch download of AoT data with waggle: https://github.com/waggle-sensor/waggle/blob/master/data/README.md
 
+nodes.csv is csv file contains the information about AoT nodes
+
+node_with_band.csv file contains the information about AoT nodes combined with the processed the band value from remote sensing data
+
+sensors.csv file contaisn the AoT sensor information
+
+offsets.csv and provenance.csv offset and provenance of the data
+
+
 ### 2. Landsat data
 
 Landsat data used in this reseach can be found in: https://earthexplorer.usgs.gov/
